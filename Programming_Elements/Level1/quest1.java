@@ -1,6 +1,6 @@
-package Programming_Elements;
+package Programming_Elements.Level1;
 
-public class HarryAge {
+public class quest1 {
     public static void main(String[] args) {
         int birthYear = 2000;
         int currentYear = 2024;

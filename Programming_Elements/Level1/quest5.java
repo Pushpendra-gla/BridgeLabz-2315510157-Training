@@ -1,5 +1,4 @@
-package Programming_Elements
-;
+package Programming_Elements.Level1;
 
 public class quest5 {
     public static void main(String[] args) {

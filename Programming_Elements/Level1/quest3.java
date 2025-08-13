@@ -1,9 +1,9 @@
-package Programming_Elements;
+package Programming_Elements.Level1;
 
-public class CalcDist {
+public class quest3 {
     public static void main(String[] args) {
         double kilometers = 10.8;
-        double miles = kilometers * 1.6;
+        double miles = kilometers / 1.6;
         System.out.println("The distance " + kilometers + " km in miles is " + miles);
     }
 }
